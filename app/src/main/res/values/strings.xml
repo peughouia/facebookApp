@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FacebookLab</string>
+    <string name="search">search</string>
+    <string name="home">home</string>
+    <string name="reels">reels</string>
+    <string name="marketplace">marketplace</string>
+    <string name="news">news</string>
+    <string name="notification">notification</string>
+    <string name="menu">menu</string>
+    <string name="what_on_your_mind">what on your mind</string>
+    <string name="Live">Live</string>
+    <string name="Photos">Photos</string>
+    <string name="Discuss">Discussion</string>
+</resources>
